@@ -8,6 +8,6 @@ public class TesteCarro {
 //		c1.cor = "branca";
 //		c1.potencia = 157;
 		System.out.println(c1.getMarca());
-		c1.setIdade(-10);
+		c1.setIdade(-10); //dá erro!
 	}
 }
